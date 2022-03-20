@@ -1,0 +1,65 @@
+h1 {
+    background-color: rgb(0, 114, 180);
+    text-align: center;
+}
+caption {
+    color: rgb(185, 185, 185);
+    text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
+table {
+width: 100%;
+}
+td, th {
+    padding: 10px;
+}
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    text-shadow:
+    -1px -1px 0 #000000,
+    1px -1px 0 #000000,
+    -1px 1px 0 #000000,
+    1px 1px 0 #000000;
+}
+table, th, td {
+border: 1px solid #888;
+border-collapse: collapse;
+}
+main{
+    width: 1200px;
+    margin: 0 auto;
+}
+tr {
+    background-color: white;
+}
+.flag {
+    height: 20px;
+}
+.center {
+    text-align:  center;
+}
+.right {
+    text-align: right;
+}
+.bold {
+    font-weight: bold;
+}
+.gold {
+    background-color: gold;
+}
+.silver {
+    background-color: silver;
+}
+.bronze {
+    background-color: #CD7F32;
+}
+.obrazek {
+    background-image: url(../img/vlocky.jpg);
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size:  100%;
+}
